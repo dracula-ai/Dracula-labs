@@ -1,8 +1,8 @@
 # DRACULA Framework
 
 **Distributed Rules for Agent Consensus in Unified Logic Applications**
+![1500x500](https://github.com/user-attachments/assets/eb0d0e40-ae5c-4068-95dd-49d325dd294f)
 
-![Dracula Logo](logo.png)
 
 ---
 
